@@ -3,6 +3,12 @@
     <channel>
         <title>리뷰천재 - Appcast</title>
         <item>
+            <title>Version 1.0.2</title>
+            <description>업데이트</description>
+            <pubDate>Fri, 15 Mar 2024 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.reviewgenius.release_demo" sparkle:version="1.0.2" sparkle:os="android" />
+        </item>
+        <item>
             <title>Version 1.0.1</title>
             <description>버그 픽스</description>
             <pubDate>Thu, 14 Mar 2024 12:00:00 +0000</pubDate>
