@@ -3,6 +3,12 @@
     <channel>
         <title>리뷰천재 - Appcast</title>
         <item>
+            <title>Version 1.0.4</title>
+            <description>리뷰 조회 업데이트</description>
+            <pubDate>Mon, 18 Mar 2024 23:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.reviewgenius.release_demo" sparkle:version="1.0.4" sparkle:os="android" />
+        </item>
+        <item>
             <title>Version 1.0.3</title>
             <description>결제 업데이트</description>
             <pubDate>Fri, 15 Mar 2024 12:15:00 +0000</pubDate>
