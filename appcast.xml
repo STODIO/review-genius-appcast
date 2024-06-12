@@ -3,28 +3,34 @@
     <channel>
         <title>리뷰천재 - Appcast</title>
         <item>
+            <title>1.0.6</title>
+            <sparkle:releaseNotesLink>https://yourappurl.com/release-notes.html</sparkle:releaseNotesLink>
+            <sparkle:minimumSystemVersion>1.0.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.reviewgenius.release_demo" sparkle:version="29" sparkle:shortVersionString="1.0.6" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.4</title>
-            <description>리뷰 조회 업데이트</description>
+            <description>리뷰 조회 업데이트</description>
             <pubDate>Mon, 18 Mar 2024 23:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.reviewgenius.release_demo" sparkle:version="1.0.4" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.reviewgenius.release_demo" sparkle:version="28" sparkle:shortVersionString="1.0.4" type="application/octet-stream"/>
         </item>
         <item>
             <title>Version 1.0.3</title>
-            <description>결제 업데이트</description>
+            <description>결제 업데이트</description>
             <pubDate>Fri, 15 Mar 2024 12:15:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.reviewgenius.release_demo" sparkle:version="1.0.3" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.reviewgenius.release_demo" sparkle:version="27" sparkle:shortVersionString="1.0.3" type="application/octet-stream"/>
         </item>
         <item>
             <title>Version 1.0.2</title>
-            <description>업데이트</description>
+            <description>업데이트</description>
             <pubDate>Fri, 15 Mar 2024 10:50:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.reviewgenius.release_demo" sparkle:version="1.0.2" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.reviewgenius.release_demo" sparkle:version="26" sparkle:shortVersionString="1.0.2" type="application/octet-stream"/>
         </item>
         <item>
             <title>Version 1.0.1</title>
             <description>버그 픽스</description>
             <pubDate>Thu, 14 Mar 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.reviewgenius.release_demo" sparkle:version="1.0.1" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.reviewgenius.release_demo" sparkle:version="25" sparkle:shortVersionString="1.0.1" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
