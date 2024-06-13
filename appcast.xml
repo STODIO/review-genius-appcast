@@ -5,8 +5,8 @@
         <item>
             <title>1.0.6</title>
             <sparkle:releaseNotesLink>https://yourappurl.com/release-notes.html</sparkle:releaseNotesLink>
-            <sparkle:minimumSystemVersion>1.0.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.reviewgenius.release_demo" sparkle:shortVersionString="1.0.6" sparkle:version="30" type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>1.0.7</sparkle:minimumSystemVersion>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.reviewgenius.release_demo" sparkle:shortVersionString="1.0.7" sparkle:version="31" type="application/octet-stream"/>
         </item>
         <item>
             <title>Version 1.0.4</title>
