@@ -3,6 +3,12 @@
     <channel>
         <title>리뷰천재 - Appcast</title>
         <item>
+            <title>1.0.8</title>
+            <sparkle:releaseNotesLink>https://yourappurl.com/release-notes.html</sparkle:releaseNotesLink>
+            <sparkle:minimumSystemVersion>1.0.7</sparkle:minimumSystemVersion>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.reviewgenius.release_demo" sparkle:shortVersionString="1.0.8" sparkle:version="35" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>1.0.6</title>
             <sparkle:releaseNotesLink>https://yourappurl.com/release-notes.html</sparkle:releaseNotesLink>
             <sparkle:minimumSystemVersion>1.0.7</sparkle:minimumSystemVersion>
